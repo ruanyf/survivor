@@ -1,0 +1,16 @@
+{
+  "name": "survivor",
+  "version": "1.0.0",
+  "description": "未来世界的幸存者",
+  "homepage": "https://ruanyf.github.io/survivor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyf/survivor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["技术", "文集", "未来"],
+  "author": "阮一峰",
+  "license": "CC BY-NC-ND 3.0"
+}

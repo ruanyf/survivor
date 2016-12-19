@@ -1,5 +1,8 @@
 # Stay hungry, Stay foolish 的原义
 
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
+
 乔布斯在斯坦福大学毕业演讲中说过，他最喜欢的一句话叫做”Stay hungry, Stay foolish“。
 
 > ”Stewart和他的人出了好几期《地球产品目录》（Whole Earth Catalog），然后不打算再出了，他们推出了最后一期。那时是70年代中期，我跟你们一样大。

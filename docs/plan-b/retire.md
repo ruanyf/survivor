@@ -1,5 +1,8 @@
 # 为什么退休金是靠不住的
 
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
+
 我以前在高校工作，很多老师最关心一件事，就是何时退休。
 
 现在有很多消息，[官方渠道](http://www.chinanews.com/gn/2016/07-28/7953908.shtml)都[透露](http://politics.caijing.com.cn/20160717/4149486.shtml)，退休年龄将推迟，具体方案2016年底就会出台。一个人以后要工作更长的年限，才会退休。

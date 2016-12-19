@@ -1,5 +1,8 @@
 # 那些无用的人
 
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
+
 一、
 
 最近，我读完了《人类简史》（中信出版社，2014）。

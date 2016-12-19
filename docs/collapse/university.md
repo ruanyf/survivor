@@ -1,5 +1,8 @@
 # 为什么你不应该读大学
 
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
+
 一、
 
 我一直相信，互联网教育是未来的方向。美国三个主要的在线教育网站----Udacity ，Coursera，可汗学院----我都经常访问。

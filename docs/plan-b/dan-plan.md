@@ -1,6 +1,7 @@
 # Dan 计划：重新定义人生的10000个小时
 
-作者：[阮一峰](http://www.ruanyifeng.com)
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
 
 一、
 

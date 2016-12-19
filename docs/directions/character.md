@@ -1,6 +1,7 @@
 # 个性也是一种竞争力
 
-作者：阮一峰
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
 
 1、
 

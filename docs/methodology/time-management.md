@@ -1,6 +1,6 @@
 # 时间管理的七句话
 
-作者： 阮一峰
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
 
 
 下面七句话，我希望自己能做到，但都没做到。

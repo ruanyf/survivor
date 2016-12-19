@@ -1,6 +1,7 @@
 # 被拒绝，也是一种肯定
 
-作者：[阮一峰](http://www.ruanyifeng.com)
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
 
 昨天，先是看到一个老外，说了一句很震撼的话。
 

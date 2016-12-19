@@ -1,5 +1,8 @@
 # 母鸡与前端工程师
 
+作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
+
+
 一、
 
 新闻说，今年全国高校毕业生达到空前的756万，又赶上很多传统行业压缩产能，就业压力很大。

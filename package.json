@@ -8,9 +8,27 @@
     "url": "https://github.com/ruanyf/survivor.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "loppo",
+    "pages": "gh-pages -d dist"
   },
-  "keywords": ["技术", "文集", "未来"],
+  "config": {
+    "ghooks": {
+      "pre-push": "npm run build && npm run pages"
+    }
+  },
+  "keywords": [
+    "技术",
+    "文集",
+    "未来"
+  ],
   "author": "阮一峰",
-  "license": "CC BY-NC-ND 3.0"
+  "license": "CC BY-NC-ND 3.0",
+  "devDependencies": {
+    "gh-pages": "^0.12.0",
+    "ghooks": "^1.3.2"
+  },
+  "dependencies": {
+    "loppo": "^0.2.0"
+  }
 }

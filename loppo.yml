@@ -1,0 +1,5 @@
+dir: docs
+output: dist
+theme: oceandeep
+site: 未来世界的幸存者
+disqus: true

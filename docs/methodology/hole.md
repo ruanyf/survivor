@@ -1,7 +1,5 @@
 # 大坑和小铲子
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 前几天，我读到一篇文章，非常短，但是说出了一个大道理。
 

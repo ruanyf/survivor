@@ -1,7 +1,5 @@
 # 你的B计划在哪里？
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 1、
 

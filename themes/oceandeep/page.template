@@ -26,7 +26,7 @@
 </nav>
 
 <div class="book-toc notification is-warning is-hidden">
-  <h3>Table of chapters &nbsp;<span class="title-close"><a class="button is-danger"> Close </a></span></h3>
+  <h3>目录&nbsp;<span class="title-close"><a class="button is-danger"> Close </a></span></h3>
   <%= chapterList %>
 </div>
 
@@ -36,6 +36,7 @@
   <div class="column article-container is-11-tablet is-8-desktop is-6-widescreen">
     <%= breadcrumb %>
     <h1 class="article-title"><%= page_title %></h1>
+    <% includes author %>
     <div class="article">
       <%= content %>
       <% if (current_path === '/') { %>
@@ -43,23 +44,7 @@
         <%= chapterList %>
       <% } %>
     </div>
-    <% if (disqus) { %>
-        <h2>您的评论</h2>
-        <div id="disqus_thread"></div>
-        <script>
-          var disqus_config = function () {
-            this.page.url = location.origin + location.pathname;
-            this.page.identifier = location.pathname;
-          };
-
-          (function() { // DON'T EDIT BELOW THIS LINE
-            var d = document, s = d.createElement('script');
-            s.src = '//future-survivor.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-          })();
-        </script>
-      <% } %>
+    <% includes disqus %>
     <div class="level article-bar is-mobile">
       <div class="level-item has-text-centered">
         <%= previous_page %>

@@ -1,7 +1,5 @@
 # Facebook 的标语
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 Facebook即将上市，一时之间成为全球新闻热点。为了不错过商机，有人将Facebook内部的标语做成海报，每张20美元，放到网上卖。
 

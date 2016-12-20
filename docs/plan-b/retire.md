@@ -1,7 +1,5 @@
 # 为什么退休金是靠不住的
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 我以前在高校工作，很多老师最关心一件事，就是何时退休。
 

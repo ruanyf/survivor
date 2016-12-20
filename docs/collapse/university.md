@@ -1,7 +1,5 @@
 # 为什么你不应该读大学
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 一、
 

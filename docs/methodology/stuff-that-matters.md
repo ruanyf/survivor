@@ -1,7 +1,5 @@
 # 什么是重要的事情？
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 美国著名出版家 Tim O'Reilly （O'Reilly 出版社的创始人和老板），谈如何选择人生道路。
 

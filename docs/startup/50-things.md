@@ -1,7 +1,5 @@
 # 创业者需要知道的50句话
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 网上有很多创业的经验谈。David Cummings 从中总结了50句话，放在一起看，确实很令人收益。
 

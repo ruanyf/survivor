@@ -1,7 +1,5 @@
 # 那些无用的人
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 一、
 

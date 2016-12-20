@@ -1,7 +1,5 @@
 # 即将来临的卖文时代
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 最近半年，内容付费成了互联网行业的一大热点。
 

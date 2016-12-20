@@ -1,7 +1,5 @@
 # 你的命运不是一头骡子
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 我在杭州工作，周末通常去爬山。
 

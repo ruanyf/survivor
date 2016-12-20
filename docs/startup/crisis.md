@@ -1,7 +1,5 @@
 # Paul Graham：为什么在经济危机中创业？
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 经济危机来了，人人都在问："该怎么办？"
 

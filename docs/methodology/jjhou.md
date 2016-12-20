@@ -1,7 +1,5 @@
 # 侯捷的职业建议
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 前几天，我不知为何突然想起了侯捷，很想知道这几年他在干什么。
 

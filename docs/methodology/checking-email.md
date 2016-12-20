@@ -1,7 +1,5 @@
 # 为什么起床后不能收邮件？
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 每天早晨打开电脑，你首先做什么？
 

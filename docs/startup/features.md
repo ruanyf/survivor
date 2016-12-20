@@ -1,7 +1,5 @@
 # 不要在功能上竞争
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 苹果公司的电子产品，最大的特点就是它的易用性（usability）----简单，美观，容易上手。它们通常不是功能最强大的，但往往是最好用的。
 

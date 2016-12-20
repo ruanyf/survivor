@@ -1,7 +1,5 @@
 # 乔布斯语录
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 乔布斯的很多话，特别打动我，尤其是下面几句。
 

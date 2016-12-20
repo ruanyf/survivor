@@ -1,7 +1,5 @@
 # Paul Graham：未来的互联网创业
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 Paul Graham 是一个计算机博士，一个程序员，一个风险投资家。但是，在我眼里，他其实是一个思想家。他的很多观点深刻地启发了我。
 

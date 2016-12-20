@@ -1,7 +1,5 @@
 # 乔布斯的告别
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 斯蒂夫·乔布斯活着的时候，对病情讳莫如深，外界对他的身体状态毫不知情。
 

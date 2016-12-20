@@ -1,7 +1,5 @@
 # 产品五问
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 创业家孙陶然说，开发一个产品的时候，应该问自己五个问题。
 

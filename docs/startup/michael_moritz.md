@@ -1,7 +1,5 @@
 # Michael Moritz 谈创业
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 Michael Moritz 是美国风险投资家，著名的风投公司Sequoia Capital（红杉资本）的合伙人。他投资雅虎400万美元，取得约40亿美元回报，投资 Google 1250万美元，获利约50亿美元。目前，他的个人财产据估计超过10亿美元。
 

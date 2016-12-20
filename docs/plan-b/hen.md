@@ -1,7 +1,5 @@
 # 母鸡与前端工程师
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 一、
 

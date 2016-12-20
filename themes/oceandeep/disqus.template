@@ -1,0 +1,17 @@
+    <% if (disqus) { %>
+        <h2>您的评论</h2>
+        <div id="disqus_thread"></div>
+        <script>
+          var disqus_config = function () {
+            this.page.url = location.origin + location.pathname;
+            this.page.identifier = location.pathname;
+          };
+
+          (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = '//future-survivor.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+      <% } %>

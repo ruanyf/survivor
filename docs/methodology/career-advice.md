@@ -1,7 +1,5 @@
 # 七个最重要的职业建议
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 Nicholas C. Zakas 是全世界最著名的 JavaScript 程序员之一。
 

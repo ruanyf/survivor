@@ -1,7 +1,5 @@
 # 为什么在大公司工作，总是很无聊？
 
-作者：<a href="http://www.ruanyifeng.com/blog" target="_blank">阮一峰</a>
-
 
 下面的内容是我在网上看到的，感觉说得相当有道理。
 

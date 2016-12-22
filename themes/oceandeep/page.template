@@ -80,6 +80,8 @@
   <%= chapterList %>
 </div>
 
+<div class="progress-indicator"></div>
+
 <!-- SCRIPTS -->
 <script>
   var LOPPO = {};

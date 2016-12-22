@@ -159,3 +159,20 @@ insert_icon_image();
   window.addEventListener('scroll', throttle(toggleSticky));
 })();
 
+
+/* progress indicator */
+(function () {
+  // var pageHeight = document.documentElement.scrollHeight;
+  var article = document.querySelector('.article');
+  var articleBottom = article.getBoundingClientRect().bottom;
+  var prog = document.querySelector('.progress-indicator');
+  window.addEventListener('scroll', function () {
+    window.requestAnimationFrame(function () {
+      var perc = Math.max(0, Math.min(1, document.documentElement.scrollTop / articleBottom));
+      updateProgress(perc);
+    });
+  });
+  function updateProgress(perc) {
+    prog.style.width = perc * 100 + '%';
+  }
+})();

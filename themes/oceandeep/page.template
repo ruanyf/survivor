@@ -25,11 +25,6 @@
   </div>
 </nav>
 
-<div class="book-toc notification is-warning is-hidden">
-  <h3>目录&nbsp;<span class="title-close"><a class="button is-danger"> Close </a></span></h3>
-  <%= chapterList %>
-</div>
-
 <div class="columns content">
   <div class="column is-2-desktop is-3-widescreen is-hidden-touch">
   </div>
@@ -79,6 +74,12 @@
     Build by <a href="https://github.com/ruanyf/loppo" target="_blank">Loppo</a> <%= loppo_version %>
   </div>
 </div>
+
+<div class="book-toc notification is-warning is-hidden">
+  <h3>目录&nbsp;<span class="title-close"><a class="button is-danger"> Close </a></span></h3>
+  <%= chapterList %>
+</div>
+
 <!-- SCRIPTS -->
 <script>
   var LOPPO = {};

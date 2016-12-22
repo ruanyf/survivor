@@ -18,6 +18,10 @@ code {
   margin-right: 0.25rem;
 }
 
+.link-disabled {
+  pointer-events: none;
+}
+
 
 /*
  *  navbar
@@ -198,6 +202,14 @@ h1.article-title {
 
 .article-bar .icon-toc {
   content: url(toc.svg);
+}
+
+.article-bar .icon-previous-disabled {
+  content: url(previous-disabled.svg);
+}
+
+.article-bar .icon-next-disabled {
+  content: url(next-disabled.svg);
 }
 
 .article-bar .level-item .link-content {

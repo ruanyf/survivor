@@ -65,6 +65,12 @@
           var disqus_config = function () {
             this.page.url = location.origin + location.pathname;
             this.page.identifier = location.pathname;
+            if (this.page.identifier.substr(-10) === 'index.html') {
+              this.page.identifier = this.page.identifier.substr(
+                0,
+                this.page.identifier.length - 10
+              );
+            }
           };
 
           (function() { // DON'T EDIT BELOW THIS LINE

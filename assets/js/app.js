@@ -81,7 +81,7 @@ window.onhashchange = function () {
   firstLevelCollapseArr.forEach(function (i) {
     i.onclick = function (e) {
       e.currentTarget.parentElement.nextSibling.classList.toggle('is-hidden');
-      const icon = i.querySelector('.icon');
+      var icon = i.querySelector('.icon');
       icon.classList.toggle('icon-expand');
       icon.classList.toggle('icon-collapse');
       insert_icon_image('expand');

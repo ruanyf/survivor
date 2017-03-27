@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "loppo",
+    "server": "loppo server",
     "pages": "gh-pages -d dist"
   },
   "config": {

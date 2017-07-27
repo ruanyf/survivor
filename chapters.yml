@@ -8,14 +8,13 @@
 - collapse/remote-work.md: 为什么上班和下班已经过时
 - plan-b/: 人生的 B 计划
 - plan-b/employment.md: 为什么雇佣制度对工人不利？
-- plan-b/mule.md: 你的命运不是一头骡子
 - plan-b/hen.md: 母鸡与前端工程师
+- plan-b/mule.md: 你的命运不是一头骡子
 - plan-b/retire.md: 为什么退休金是靠不住的
 - plan-b/life-after-45-years.md: 45岁以后的人生
 - plan-b/plan-b.md: 你的B计划在哪里？
 - methodology/: 方法论
 - methodology/stuff-that-matters.md: 什么是重要的事情？
-- methodology/dan-plan.md: Dan 计划：重新定义人生的10000个小时
 - methodology/career-advice.md: 七个最重要的职业建议
 - methodology/jobs.md: 乔布斯的告别
 - methodology/jjhou.md: 侯捷的职业建议
@@ -32,13 +31,14 @@
 - startup/michael_moritz.md: Michael Moritz 谈创业
 - startup/features.md: 不要在功能上竞争
 - startup/50-things.md: 创业者需要知道的50句话
-- directions/: 创业方向
+- directions/: 案例篇
+- directions/dan-plan.md: Dan 计划：重新定义人生的10000个小时
 - directions/character.md: 个性也是一种竞争力
 - directions/group-chat.md: 要聊天，先付费
 - directions/paywall.md: 即将来临的卖文时代
 - directions/micro-media.md: 微媒体时代
 - directions/entertainment.md: 未来的娱乐业
-- future/: 预测未来
+- future/: 未来篇
 - future/crispr.md: 高级人类的崛起
 - future/boundary.md: 技术的边界
 - future/entropy.md: 熵：宇宙的终极规则

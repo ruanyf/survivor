@@ -13,22 +13,19 @@
 - plan-b/retire.md: 为什么退休金是靠不住的
 - plan-b/life-after-45-years.md: 45岁以后的人生
 - plan-b/plan-b.md: 你的B计划在哪里？
-- methodology/: 方法论
-- methodology/stuff-that-matters.md: 什么是重要的事情？
-- methodology/career-advice.md: 七个最重要的职业建议
-- methodology/jjhou.md: 侯捷的职业建议
-- methodology/time-management.md: 时间管理
-- methodology/checking-email.md: 为什么起床后不能收邮件？
-- methodology/hole.md: 大坑和小铲子
-- methodology/getting-rejected.md: 被拒绝，也是一种肯定
 - startup/: 创业篇
-- startup/business-model.md: 经营模式
-- startup/facebook.md: Facebook 的标语
-- startup/product.md: 什么样的产品可以成功？
-- startup/crisis.md: Paul Graham：为什么在经济危机中创业？
-- startup/michael_moritz.md: Michael Moritz 谈创业
-- startup/features.md: 不要在功能上竞争
+- startup/why-startup.md: 为什么创业？
+- startup/product.md: 创业方法论
 - startup/50-things.md: 创业者需要知道的50句话
+- startup/business-model.md: 经营模式
+- startup/features.md: 不要在功能上竞争
+- startup/stuff-that-matters.md: 什么是重要的事情？
+- startup/career-advice.md: 七个最重要的职业建议
+- startup/jjhou.md: 侯捷的职业建议
+- startup/time-management.md: 时间管理
+- startup/checking-email.md: 为什么起床后不能收邮件？
+- startup/hole.md: 大坑和小铲子
+- startup/getting-rejected.md: 被拒绝，也是一种肯定
 - directions/: 案例篇
 - directions/dan-plan.md: Dan 计划：重新定义人生的10000个小时
 - directions/jobs.md: 乔布斯的告别

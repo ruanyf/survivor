@@ -90,6 +90,7 @@
   LOPPO.article_toc = <%= JSON.stringify(toc) %>;
 </script>
 <script src="<%= relative_root_path %>assets/js/app.js"></script>
+<script src="<%= relative_root_path %>assets/js/stat.js"></script>
 </body>
 </html>
 

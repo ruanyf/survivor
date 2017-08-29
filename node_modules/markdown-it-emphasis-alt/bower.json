@@ -1,0 +1,27 @@
+{
+  "name": "markdown-it-synapse",
+  "main": "dist/markdown-it-synapse.js",
+  "homepage": "https://github.com/jay-hodgson/markdown-it-synapse",
+  "description": "synapse widget container support for markdown-it markdown parser.",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "synapse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "benchmark",
+    "bower_components",
+    "coverage",
+    "demo",
+    "docs",
+    "lib",
+    "node_modules",
+    "support",
+    "test",
+    "Makefile",
+    "index*"
+  ]
+}

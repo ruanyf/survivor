@@ -1,0 +1,8 @@
+<!-- SCRIPTS -->
+<script>
+  var LOPPO = {};
+  LOPPO.current_path = '<%= current_path %>';
+  LOPPO.relative_root_path = '<%= relative_root_path %>';
+  LOPPO.article_toc = <%= JSON.stringify(toc) %>;
+</script>
+<script src="<%= relative_root_path %>assets/js/app.js"></script>

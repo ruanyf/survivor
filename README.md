@@ -1,6 +1,6 @@
 2016年3月，谷歌公司的围棋程序 AlphaGo 战胜了世界冠军李世石。
 
-![](docs/images/alphago.jpg)
+![](docs/images/cover-201711.jpg)
 
 这让我猛然意识到，世界正处在一个前所未有的大变局：
 

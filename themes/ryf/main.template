@@ -1,0 +1,51 @@
+<% if (current_path !== '/') { %>
+  <section class="section main article">
+<% } else { %>
+  <section class="section main homepage">
+<% } %>
+    <div class="container">
+
+<div class="columns">
+  <div class="column is-8">
+    <% if (!isHomepage) { %>
+      <% include breadcrumb %>
+      <% include pre-next %>
+    <% } %>
+    <article class="content is-size-4-desktop">
+      <% if (isHomepage) { %>
+        <h1 class="title"><%= site %></h1>
+      <% } else { %>
+        <h1 class="title"><%= page_title %></h1>
+      <% } %>
+      <% /* %>
+      <div class="page-meta">
+        <p>出自网道（WangDoc.com），互联网开发文档</p>
+      </div>
+      <% */ %>
+      <% if (!isHomepage) { %>
+      <p>作者： 阮一峰</p>
+      <% } %>
+      <%= content %>
+    </article>
+    <% include pre-next %>
+    <div class="page-info is-size-5-desktop">
+      <p>最后生成于 <%= (new Date()).toLocaleDateString('zh-CN', {timeZone: 'Asia/Shanghai', hour12: false, year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit'}) %></p>
+    </div>
+  </div>
+
+  <div class="column is-3 is-offset-1">
+    <% include chapters %>
+  </div>
+</div>
+
+<% if (typeof hasComments === 'undefined' || !hasComments) { %>
+<% } else { %>
+<div class="columns">
+  <div class="column is-8">
+    <div id="disqus_thread"></div>
+  </div>
+</div>
+<% } %>
+
+    </div>
+  </section>

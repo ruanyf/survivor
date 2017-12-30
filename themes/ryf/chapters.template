@@ -1,0 +1,76 @@
+<nav class="panel panel-menu">
+  <p class="panel-heading">
+    <i class="fa fa-book" aria-hidden="true"></i> <%= site %>
+  </p>
+  <div class="panel-block">
+  <aside class="menu">
+  <p class="menu-label">
+  </p>
+  <ul class="menu-list">
+    <% chaptersOrigin.forEach(i => { %>
+      <li>
+        <% if (i.origin === current_path) { %>
+          <a href="<%= relative_root_path %><%= i.path %>" class="is-active">
+        <% } else { %>
+          <a href="<%= relative_root_path %><%= i.path %>">
+        <% } %>
+          <span class="icon">
+          <% if (i.nextLevelBegins) { %>
+            <i class="fa fa-caret-down"></i>
+          <% } %>
+          </span>
+          <% if (i.nextLevelBegins) { %>
+            <i class="fa folder fa-folder-o" aria-hidden="true" style="width: 14px;"></i>
+          <% } else { %>
+            <i class="fa fa-file-text-o" aria-hidden="true" style="width: 14px;"></i>
+          <% } %>
+            &nbsp;
+            <span class="menu-list-title"><%= i.text %></span>
+          </a>
+        <% if (i.nextLevelBegins) { %>
+      <ul>
+        <% } else { %>
+      </li>
+        <% } %>
+      <% if (i.currentLevelEnds) { %>
+        <%= '</ul></li>'.repeat(i.currentLevelEndNum) %>
+      <% } else { %>
+      <% } %>
+    <% }) %>
+  </ul>
+  </aside>
+  </div>
+</nav>
+
+<% /* %>
+<nav class="panel panel-info">
+  <p class="panel-heading">
+    <i class="fa fa-link" aria-hidden="true"></i> 链接
+  </p>
+  <div class="panel-block">
+  <aside class="menu">
+  <p class="menu-label">
+  </p>
+  <ul class="menu-list">
+    <% if (!isHomepage) { %>
+    <li>
+      <a href="https://raw.githubusercontent.com/wangdoc/<%= id %>-tutorial/master/docs/<%= current_path %>" target="_blank">
+      <span class="icon"></span><i class="fa fa-code" aria-hidden="true" style="width: 14px;"></i>&nbsp;本文源码
+      </a>
+    </li>
+    <% } %>
+    <li>
+      <a href="https://github.com/wangdoc/<%= id %>-tutorial" target="_blank">
+      <span class="icon"></span><i class="fa fa-hdd-o" aria-hidden="true" style="width: 14px;"></i>&nbsp;代码仓库
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wangdoc/<%= id %>-tutorial/issues" target="_blank">
+      <span class="icon"></span><i class="fa fa-flag-o" aria-hidden="true" style="width: 14px;"></i>&nbsp;反馈
+      </a>
+    </li>
+  </ul>
+  </aside>
+  </div>
+</nav>
+<% */ %>

@@ -1,0 +1,13 @@
+<nav class="navbar is-light" role="navigation" id="navbar" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+    <a href="/home.html" class="navbar-item title has-text-grey has-text-weight-light is-5">
+      阮一峰的个人网站
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-end">
+    </div>
+  </div>
+  </div>
+</nav>

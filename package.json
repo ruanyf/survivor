@@ -12,7 +12,8 @@
     "prepush": "npm run build && npm run pages",
     "build": "loppo",
     "server": "loppo server",
-    "pages": "gh-pages -d dist"
+    "pages": "gh-pages -d dist",
+    "build-ryf": "rm -rf themes/ryf && loppo --id survivor --theme ryf"
   },
   "keywords": [
     "技术",
@@ -22,10 +23,11 @@
   "author": "阮一峰",
   "license": "CC BY-NC-ND 3.0",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
-    "husky": "^0.14.3"
+    "gh-pages": "latest",
+    "husky": "latest",
+    "loppo-theme-ryf": "latest"
   },
   "dependencies": {
-    "loppo": "0.5.x"
+    "loppo": "^0.6.11"
   }
 }

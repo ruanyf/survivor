@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= current_path === '/' ? '' : page_title + ' - ' %><%= site %> - 网道</title>
+    <!-- link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" -->
+    <link rel="stylesheet" href="<%= relative_root_path %>assets/css/app.min.css">
+    <link rel="stylesheet" href="https://apps.bdimg.com/libs/fontawesome/4.4.0/css/font-awesome.css">
+    <!-- link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css"-->
+  </head>
+  <body>
+    <% include nav %>
+    <% /* include hero */ %>
+    <% include main %>
+    <% include foot %>
+    <% include script %>
+  </body>
+</html>

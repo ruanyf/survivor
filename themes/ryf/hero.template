@@ -1,0 +1,11 @@
+<section class="hero is-link">
+  <div class="hero-body">
+    <div class="container">
+      <a href="<%= relative_root_path %>index.html"><h1 class="title"><%= site %></h1></a>
+    </div>
+  </div>
+  <div class="hero-foot">
+    <div class="container">
+    </div>
+  </div>
+</section>

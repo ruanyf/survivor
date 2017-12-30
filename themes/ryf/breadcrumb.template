@@ -1,0 +1,27 @@
+<nav class="breadcrumb is-size-5-desktop" aria-label="breadcrumbs">
+  <ul>
+    <% breadcrumbOrigin.forEach((item, i) => { %>
+
+    <% if (i === 0) { %>
+      <% item.text = '&nbsp;' + site; %>
+    <% } %>
+
+    <% if (i === breadcrumbOrigin.length - 1) { %>
+      <li class="is-active">
+        <a class="has-text-grey" href="<%= relative_root_path %><%= item.path %>">
+          <% if (i===0) { %><span class="icon"><i class="fa fa-home"></i></span><% } %>
+          <%= item.text %>
+        </a>
+      </li>
+    <% } else { %>
+      <li>
+        <a href="<%= relative_root_path %><%= item.path %>">
+          <% if (i===0) { %><span class="icon"><i class="fa fa-home"></i></span><% } %>
+          <%= item.text %>
+        </a>
+      </li>
+    <% } %>
+
+    <% }) %>
+  </ul>
+</nav>

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><%= current_path === '/' ? '' : page_title + ' - ' %><%= site %> - 网道</title>
+    <title><%= current_path === '/' ? '' : page_title + ' - ' %><%= site %> - 阮一峰</title>
     <!-- link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" -->
     <link rel="stylesheet" href="<%= relative_root_path %>assets/css/app.min.css">
     <link rel="stylesheet" href="https://apps.bdimg.com/libs/fontawesome/4.4.0/css/font-awesome.css">

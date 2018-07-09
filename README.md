@@ -1,3 +1,12 @@
+本书已经出版，欢迎购买。
+
+> - [京东](https://search.jd.com/Search?keyword=未来世界的幸存者&enc=utf-8&wq=未来世界的幸存者)
+> - [淘宝](https://s.taobao.com/search?q=%E6%9C%AA%E6%9D%A5%E4%B8%96%E7%95%8C%E7%9A%84%E5%B9%B8%E5%AD%98%E8%80%85)
+> - [亚马逊](https://www.amazon.cn/dp/B07DY286SY/)
+> - [当当](http://product.dangdang.com/25300552.html)
+
+[![](docs/images/published_cover_sm.jpg)](docs/images/published_cover.jpg)
+
 2016年3月，谷歌公司的围棋程序 AlphaGo 战胜了世界冠军李世石。
 
 这让我猛然意识到，世界正处在一个前所未有的大变局：
@@ -14,4 +23,4 @@
 
 世界正在猛烈变化，旧的模式完全行不通了。我希望这本书，能让读者意识到洪水就在不远处，从而早早准备出路。
 
-[![](docs/images/cover-201711-sm.jpg)](docs/images/cover-201711.jpg)
+

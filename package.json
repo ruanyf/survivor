@@ -28,6 +28,6 @@
     "loppo-theme-ryf": "latest"
   },
   "dependencies": {
-    "loppo": "^0.6.11"
+    "loppo": "^0.6.14"
   }
 }
